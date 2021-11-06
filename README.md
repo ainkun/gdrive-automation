@@ -9,3 +9,6 @@
 Walkthrough1: https://www.youtube.com/watch?v=6bzzpda63H0&t=0s
 
 Walkthrough2: https://www.youtube.com/watch?v=9K2P2bWEd90
+
+
+This is a simple script which creates multiple folders and creates permissions for each folder and assign to the respective gmails provided in a list of dictionary.
